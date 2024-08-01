@@ -34,7 +34,7 @@ This project combines a Power BI dashboard for visualizing HR attrition data wit
 - Adjust model parameters in `train_model.py` for optimization
 
 ## Model Performance
-- AUC 73 %
+- AUC 63 %
 
 ## Future Improvements
 - Incorporate more advanced ML algorithms (Random Forest, XGBoost)
